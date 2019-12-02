@@ -6,8 +6,8 @@ package org.core;
  */
 public class App 
 {
-	private void function() {
-		System.out.println("Anjan");
+	private void function1222() {
+		System.out.println("Pradeep");
 	}
     public static void main( String[] args )
     {
