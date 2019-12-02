@@ -18,5 +18,8 @@ public class App
         System.out.println("sdfsdf");
         System.out.println("pradeeep");
     }
+    public void method() {
+    	 System.out.println("pradeeep");
+    }
     
 }
